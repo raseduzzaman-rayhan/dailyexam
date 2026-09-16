@@ -1,0 +1,6 @@
+{
+  "name": "Daily Online MCQ Exam Platform",
+  "description": "বাংলাদেশের শিক্ষার্থীদের জন্য দৈনিক অনলাইন MCQ পরীক্ষা প্ল্যাটফর্ম ও অ্যাডমিন ড্যাশবোর্ড",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
